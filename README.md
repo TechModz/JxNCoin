@@ -1,3 +1,4 @@
-What is JxN Coin 
+Update Log
 ____________________
-It is (Fill)
+12/07/2017
+Added Coin Source 
